@@ -4,7 +4,7 @@ This is the minimum of the boiler plate to create an application for the browser
 
 ## Demo
 
-https://hkusu.github.io/es2015-browserapp-minimum-boilerplate/
+https://hkusu.github.io/es2015-browserapp-minimum-boilerplate/index.html
 
 > This demo is delivered in github-pages.
 
